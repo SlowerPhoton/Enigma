@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443899082 source:c:\instal\codeblocks\share\codeblocks\programy\enigmafinal\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+

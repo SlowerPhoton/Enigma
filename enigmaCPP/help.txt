@@ -1,0 +1,11 @@
+You are viewing a console application, designed to simulate the Enigma algorithm.
+
+Commands:
+generate_key    generates the key (asks for a number to use for the random function's seed, if no number is provided it uses time(NULL) instead)
+set_key         uploads the key from a chosen file
+encrypt         encrypts the given message
+reset_shift     resets the shift of rotors
+set_shift       sets shift of each rotor to a given value
+print_shift     prints the current values of shift
+help            prints all commands
+end             ends the application

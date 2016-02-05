@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1454672444 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<ctime>
+	"callFunction.h"
+	"cin.h"
+	"plugboard.h"
+
+1454674472 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\callfunction.h
+	<string>
+
+1454688306 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\callfunction.cpp
+	"callFunction.h"
+	"help.h"
+	"key.h"
+	"cin.h"
+	"encryption.h"
+	"plugboard.h"
+	"settings.h"
+	<iostream>
+
+1454688481 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\help.cpp
+	"help.h"
+	<iostream>
+
+1454353433 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\help.h
+
+1454688297 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\key.h
+
+1454354707 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\cin.h
+
+1454450049 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\cin.cpp
+	"cin.h"
+	<iostream>
+	<limits>
+
+1454684836 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\key.cpp
+	"key.h"
+	"cin.h"
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<string>
+
+1454688297 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\encryption.h
+
+1454685821 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\encryption.cpp
+	"encryption.h"
+	"cin.h"
+	"plugboard.h"
+	<iostream>
+	<cstdio>
+	<string.h>
+	<fstream>
+
+1454682179 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\plugboard.h
+
+1454674471 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\plugboard.cpp
+	"plugboard.h"
+	"cin.h"
+	"callFunction.h"
+	<iostream>
+
+1454685602 c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\settings.h
+
+1454688297 source:c:\instal\codeblocks\share\codeblocks\programy\enigmacpp\settings.cpp
+	"settings.h"
+	<iostream>
+	<fstream>
+
